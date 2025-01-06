@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "dest-recs"
+name = "repast"
 version = "0.1.0"
 description = ""
 authors = ["drewpayment <drew.payment@gmail.com>"]

@@ -2,7 +2,7 @@ import argparse
 import os
 from dotenv import load_dotenv
 
-from dest_recs.utils import debug_print
+from repast.utils import debug_print
 from .places_api import search_nearby_businesses, get_place_details, get_coordinates_from_address, text_search_businesses
 from .ai_analysis import analyze_reviews
 

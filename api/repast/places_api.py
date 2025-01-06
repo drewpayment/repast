@@ -1,6 +1,6 @@
 import requests
 
-from dest_recs.utils import debug_print
+from repast.utils import debug_print
 
 def search_nearby_businesses(api_key, location, radius=5000, keyword=None, debug=False):
     """
